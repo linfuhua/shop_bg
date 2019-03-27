@@ -1,6 +1,8 @@
 # shopbg
 
-> A Vue.js project
+> “拼多少”团购网 由普通用户端、商家后台端和管理员后台端三个系统构成
+> 此系统是“商家后台系统” 
+> 前端页面由Vue全家桶+ElementUI编写 后台由Go编写 这里是前端代码
 
 ## Build Setup
 
